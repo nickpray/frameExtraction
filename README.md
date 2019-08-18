@@ -1,0 +1,1 @@
+Just place video(s) into the `videos` directory and run `videoSequencer.py` to get those sweet, sweet frames
