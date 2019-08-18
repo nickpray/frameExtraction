@@ -1,1 +1,1 @@
-Just place video(s) into the `videos` directory and run `videoSequencer.py` to get those sweet, sweet frames
+Just place video(s) into the `videos` directory and run `videoSequencer.py` to get those sweet, sweet first and last frames
